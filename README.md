@@ -1,6 +1,7 @@
 ## PROFILE
-Japanese Infrastructure Engineer. I will work on Tokyo since 2022.<br>
-Now, I'm also learning about Python crawling and serverside engineering for Ruby on Rails.<br>
+Japanese technical school student. I will work on Tokyo since 2022 as a Infrastructure Engineer.<br>
+I graduated general course in high school but still studied technical skill there.<br>
+Now, I'm learning about infrastructure, but also Python crawling and serverside engineering for Ruby on Rails.<br>
 I update something as much as here on [Twitter](https://twitter.com/K_Satani)
 
 ## GITHUB STATS
