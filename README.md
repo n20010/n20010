@@ -1,7 +1,7 @@
 ## PROFILE
 Japanese Infrastructure Engineer. I will work on Tokyo since 2021<br>
 Now, I'm also learning about Python crawling and serverside engineering for Ruby on Rails<br>
-I update something as much as here on [Twitter](https://twitter.com/K_Satani)
+I update something as much as here on <a href="https://twitter.com/K_Satani" target="_blank">Twitter</a>
 
 ## GITHUB STATS
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n20010&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
