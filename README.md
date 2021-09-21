@@ -1,5 +1,5 @@
 ## PROFILE
-Japanese Infrastructure Engineer. I will work on Tokyo since 202<br>
+Japanese Infrastructure Engineer. I will work on Tokyo since 2022<br>
 Now, I'm also learning about Python crawling and serverside engineering for Ruby on Rails<br>
 I update something as much as here on [Twitter](https://twitter.com/K_Satani)
 
